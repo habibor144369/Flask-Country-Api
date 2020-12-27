@@ -13,7 +13,7 @@ while i <= n:
 fib_nr.insert(0, 1)
 print(fib_nr)
 
-# n module import here
+# important module import here
 import turtle
 from turtle import *
 turtle.color("green")
